@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import SlideShow from './slide_show.jsx';
+import Doppler from './doppler.jsx';
 
 export function initialize(){
-	ReactDOM.render( React.createElement(SlideShow), document.getElementById('slide_show'))
+	ReactDOM.render( React.createElement(Doppler), document.getElementById('doppler'))
 }
