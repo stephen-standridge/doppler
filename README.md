@@ -15,3 +15,10 @@ This repository uses webpack and webpack-dev-server to build and serve the files
 ## next steps
   - clarify the logarithmic mapping
   - style
+
+## libraries
+  - react
+  - react-dom
+  - nw-react-slider
+  - webpack
+  - webpack-dev-server
